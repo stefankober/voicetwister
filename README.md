@@ -20,4 +20,4 @@ Twister is copyrighted and trademarked by Hasbro.
 
 I am not affiliated or anything.
 
-This is just a private project for getting enough sports.
+This is just a private project for getting enough exercise.
